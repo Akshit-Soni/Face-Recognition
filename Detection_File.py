@@ -1,3 +1,5 @@
+#This file is used to create raw data for face detection
+
 import numpy as np
 import cv2
 
